@@ -1,0 +1,15 @@
+body {
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: antiquewhite;
+  background: antiquewhite url("img/thmlfot.jpg") no-repeat 50% 0;
+}
+h1 {
+  color: brown;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+text-align: center;}
+
+p {
+  color: black;
+  width: 260px
+}
