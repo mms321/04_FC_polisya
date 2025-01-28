@@ -12,7 +12,6 @@ h1 {
 
 p {
   color: black;
-  
 }
 img {
   width: 200px;
@@ -22,9 +21,28 @@ img {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
-footer{
+footer {
   color: black;
 }
-#news {background-color: #00ab0e;}
-h2{background-color: #01800c;}
-article{background-color: #01800c;}
+#news {
+  background-color: #00ab0e;
+}
+h2 {
+  background-color: #01800c;
+}
+article {
+  background-color: #01800c;
+}
+#hightlights {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.hightlights-content {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.hightlights-content article{
+  width: 500px;
+}
